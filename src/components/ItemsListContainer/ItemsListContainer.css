@@ -1,0 +1,18 @@
+.mensaje_container{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 50%;
+    height: 200px;
+    background-color: rgb(190, 203, 212);
+    border-radius: 30px;
+    box-shadow: rgba(17, 17, 26, 0.5)0px 1px 0px, rgba(17, 17, 26, 0.5);
+
+}
+
+.mensaje{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
